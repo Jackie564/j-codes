@@ -1,4 +1,9 @@
-
+/*
+Author: Jackline Mwaniki
+Reg no: BSE-01-0058/2025
+Description: Average marks
+version 1
+*/
 #include <iostream>
 
 using namespace std;
