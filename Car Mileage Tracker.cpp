@@ -1,4 +1,5 @@
-/*Author: Jackline Mwaniki
+/*
+Author: Jackline Mwaniki
 Reg No: BSE-01-0058/2025
 Description: Car Mileage Tracker
 Date: 27/3/2025
